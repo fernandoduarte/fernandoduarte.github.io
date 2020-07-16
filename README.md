@@ -1,6 +1,6 @@
 # fernandoduarte.github.io
 
-## To run locally
+## To Run Locally
 
 1. Clone or download repository to your local desired directory
 
@@ -20,7 +20,9 @@ Gatsby installation: https://www.gatsbyjs.org/docs/quick-start/#use-the-gatsby-c
 
 5. Enter the port URL provided in your CLI/terminal into your preferred browser
 
-## To add a new paper
+
+## Making Edits
+### To add a new paper
 
 #### For Working Papers and Publications: go to index.js
 #### For Social Media: go to socialMedia.js
@@ -42,7 +44,7 @@ For social media, also add `publisher=""`:
   publisher="publication"></Paper>
 ```
 
-## To add an abstract
+### To add an abstract
 
 Add:
 ```
@@ -51,7 +53,7 @@ Add:
 </Abstract>
 ```
 
-## To add an additional external link:
+### To add an additional external link:
 
 ```
 <a href="external_link" target="_blank" rel="noopener noreferrer">Text</a>
@@ -59,11 +61,11 @@ Add:
 
 - Subsequent links should have a `<br></br>` tag before `<a></a>`
 
-## To add a link to a file: 
+### To add a link to a file: 
 
 - Add the file to src/files
 
-### For pdfs:
+#### For pdfs:
 
 - Import the file near the top of the code file underneath the label `// Asset declarations`:
 ```
@@ -75,7 +77,7 @@ import name_for_file from "../files/name_of_file.pdf";
 <a href={name_for_file} target="_blank" rel="noopener noreferrer">Text</a>
 ```
 
-### For Excel sheets:
+#### For Excel sheets:
 
 Add in code:
 
@@ -83,3 +85,12 @@ Add in code:
 ```
 <a href="../files/name_of_file.xlsx" download="name_of_file.xlsx">Text</a>
 ```
+
+## To Deploy
+This is to update the live site with any new updates or changes.
+
+1. Make sure all changes have been committed and pushed to the `source` branch.
+2. Open your CLI/Terminal and go to the directory in which this repo is contained:
+
+- Run the command `cd DIRECTORY_PATH`, e.g. `cd Downloads/fernandoduarte.github.io-master`
+- Run the command `npm run deploy` or `yarn run deploy`
