@@ -15,7 +15,7 @@ Gatsby installation: https://www.gatsbyjs.org/docs/quick-start/#use-the-gatsby-c
 
 4. Open your CLI/Terminal and go to the directory in which your cloned/downloaded repo is contained:
 
-- Run the command `cd DIRECTORY_PATH`, e.g. `cd Downloads/fernandoduarte.github.io-master`
+- Run the command `cd DIRECTORY_PATH`, e.g. `cd Downloads/fernandoduarte.github.io-source`
 - Run the command `npx gatsby develop` or `yarn gatsby develop`
 
 5. Enter the port URL provided in your CLI/terminal into your preferred browser
