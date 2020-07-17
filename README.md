@@ -1,4 +1,4 @@
-# fernandoduarte.github.io
+# fernando-duarte.github.io
 
 ## To Run Locally
 
@@ -56,10 +56,10 @@ Add:
 ### To add an additional external link:
 
 ```
-<a href="external_link" target="_blank" rel="noopener noreferrer">Text</a>
+<a href="external_link" target="_blank" rel="noopener noreferrer">Link text</a>
 ```
 
-- Subsequent links should have a `<br></br>` tag before `<a></a>`
+- Subsequent links should have a `<br></br>` tag before `<a></a>` link tag for layout consistency
 
 ### To add a link to a file: 
 
