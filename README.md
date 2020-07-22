@@ -1,4 +1,4 @@
-# fernando-duarte.github.io
+# fernandoduarte.github.io
 
 ## To Run Locally
 
