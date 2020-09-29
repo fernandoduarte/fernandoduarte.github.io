@@ -183,17 +183,17 @@ export default function Home() {
                             </i>
                             <br></br>
                             <a
-                                href="https://fernandoduarte.github.io/files/ERP.xlsx"
+                                href="../files/ERP.xlsx"
                                 target="_blank"
                                 rel="noopener noreferrer">Latest ERP Estimates (September 2019)</a>
                             <br></br>
                             <a
-                                href="https://fernandoduarte.github.io/files/ERP.xlsx"
+                                href="https://fernandoduarte.github.io/src/files/ERP.xlsx"
                                 target="_blank"
                                 rel="noopener noreferrer">All Vintages</a>
                             <br></br>
                             <a
-                                href="https://fernandoduarte.github.io/files/ERP.xlsx"
+                                href="files/ERP.xlsx"
                                 target="_blank"
                                 rel="noopener noreferrer">Code and Data</a>
                         </li>
