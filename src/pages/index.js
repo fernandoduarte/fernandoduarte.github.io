@@ -182,10 +182,7 @@ export default function Home() {
                                 </a>
                             </i>
                             <br></br>
-                            <a
-                                href="../files/ERP.xlsx"
-                                target="_blank"
-                                rel="noopener noreferrer">Latest ERP Estimates (September 2019)</a>
+                            <a href="../files/ERP.xlsx" download="ERP.xlsx">Latest ERP Estimates (September 2019)</a>
                             <br></br>
                             <a
                                 href="https://fernandoduarte.github.io/src/files/ERP.xlsx"
