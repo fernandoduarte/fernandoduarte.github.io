@@ -25,8 +25,9 @@ export default function About() {
                         <span>
                             <h3>Fernando Duarte</h3>
                             &nbsp;is a Senior Economist in the Capital Markets Function at the Federal
-                            Reserve Bank of New York, with main research interests in inflation, asset
-                            pricing, and the connections between macroeconomics and finance. Fernando
+                            Reserve Bank of New York. His main research interests are in monetary economics, inflation, asset
+                            pricing, financial frictions, macroprudential policies and, more generally, the connections between macroeconomics and finance. 
+                            Fernando has published some of his research in top finance journals, including the Journal of Finance. He
                             obtained his Ph.D. in Economics from MIT in 2011.
                         </span>
                         <hr/>
