@@ -25,7 +25,8 @@ export default function Home() {
                                 target="_blank"
                                 rel="noopener noreferrer">
                                 Replication Code
-                            </a><br>
+                            </a>
+							<br></br>
                             <a
                                 href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13010&file=jofi13010-sup-0001-InternetAppendix.pdf"
                                 target="_blank"
@@ -44,7 +45,8 @@ export default function Home() {
                                 target="_blank"
                                 rel="noopener noreferrer">
                                 Replication Code and Data
-                            </a><br>
+                            </a>
+							<br></br>
                            <a
                                 href="https://fernandoduarte.github.io/src/files/inflation_NRC_onlineAppendix.pdf"
                                 target="_blank"
@@ -84,7 +86,7 @@ export default function Home() {
                                     Advancing the Frontiers of Monetary Policy
                                 </a>
                                 , Tobias Adrian, Doug Laxton and Maurice Obstfeld, editors, International
-                                Monetary Fund, Washington DC, April 2018</i><br>
+                                Monetary Fund, Washington DC, April 2018</i><br></br>
                                <a
                                     href="https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr890.pdf"
                                     target="_blank"
@@ -210,9 +212,9 @@ export default function Home() {
                                 Fiscal policy is passive, so it plays no role for determinacy. The interest rate rules I consider are easy to communicate, require little institutional change and 
                                 do not entail any unnecessary social welfare losses.
                             </Abstract>
-                            <br><a href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb_appendix.pdf" target="_blank" rel="noopener noreferrer">Online Appendix</a>
-                            <br><a href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb.pdf" target="_blank" rel="noopener noreferrer">Paper and Online Appendix (with hyperlinks)</a>
-                            <br><a href="https://fernandoduarte.github.io/src/files/zlb_ode_interactive.zip" target="_blank" rel="noopener noreferrer">Interactive Mathematica notebook</a>
+                            <br></br><a href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb_appendix.pdf" target="_blank" rel="noopener noreferrer">Online Appendix</a>
+                            <br></br><a href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb.pdf" target="_blank" rel="noopener noreferrer">Paper and Online Appendix (with hyperlinks)</a>
+                            <br></br><a href="https://fernandoduarte.github.io/src/files/zlb_ode_interactive.zip" target="_blank" rel="noopener noreferrer">Interactive Mathematica notebook</a>
                         </li>                        
                         <li>
                             <Paper
