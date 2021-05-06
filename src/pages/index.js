@@ -41,16 +41,14 @@ export default function Home() {
                                 citations="with Martijn Boons, Frans de Roon, and Marta Szymanowska"
                                 publisher="Journal of Financial Economics, Volume 136, Issue 2, Pages 444-470, May 2020"></Paper>
                             <a
-                                href="https://fernandoduarte.github.io/src/files/inflation_NRC_replication.zip"
-                                target="_blank"
-                                rel="noopener noreferrer">
+                                href="../files/inflation_NRC_replication.zip"
+                                download="inflation_NRC_replication.zip">
                                 Replication Code and Data
                             </a>
 							<br></br>
                            <a
-                                href="https://fernandoduarte.github.io/src/files/inflation_NRC_onlineAppendix.pdf"
-                                target="_blank"
-                                rel="noopener noreferrer">
+                                href="../files/inflation_NRC_onlineAppendix.pdf"
+                                download="inflation_NRC_onlineAppendix.pdf">
                                 Internet Apprendix
                             </a>
                         </li>
@@ -110,16 +108,15 @@ export default function Home() {
                             </i>
                             <br></br>
                             <a 
-                               href="https://fernandoduarte.github.io/src/files/ERP.xlsx" 
+                               href="../files/ERP.xlsx" 
                                target="_blank"
                                rel="noopener noreferrer">
                                    Latest ERP Estimates (February 2021)
                             </a>
                             <br></br>
                             <a
-                                href="https://fernandoduarte.github.io/src/files/ERP_vintages.xlsx"
-                                target="_blank"
-                                rel="noopener noreferrer">
+                                href="../files/ERP_vintages.xlsx"
+                                download="ERP.xlsx">
                                     All Vintages
                             </a>
                             <br></br>
@@ -138,7 +135,7 @@ export default function Home() {
                     <ul>
                          <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/AdrianDuarte_NK_Vulnerabilities.pdf"
+                                href="../files/AdrianDuarte_NK_Vulnerabilities.pdf"
                                 title="Financial Vulnerability and Monetary Policy"
                                 citations="with Tobias Adrian, November 2020"></Paper>
                             <Abstract>
@@ -162,7 +159,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/Monetary and Macroprudential Policy with Endogenous Risk.pdf"
+                                href="../files/Monetary and Macroprudential Policy with Endogenous Risk.pdf"
                                 title="Monetary and Macroprudential Policy with Endogenous Risk"
                                 citations="with Tobias Adrian, Nellie Liang, and Pawel Zabczyk, November 2020"></Paper>
                             <Abstract>
@@ -180,7 +177,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/NetworkContagion_DuarteJones.pdf"
+                                href="../files/NetworkContagion_DuarteJones.pdf"
                                 title="Empirical Network Contagion for U.S. Financial Insitutions"
                                 citations="with Collin Jones, October 2019"></Paper>
                             <Abstract>
@@ -199,7 +196,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb_paper.pdf"
+                                href="../files/indeterminacy_zlb_paper.pdf"
                                 title="How to Escape a Liquidity Trap with Interest Rate Rules"
                                 citations="January 2019"></Paper>
                             <Abstract>
@@ -212,13 +209,13 @@ export default function Home() {
                                 Fiscal policy is passive, so it plays no role for determinacy. The interest rate rules I consider are easy to communicate, require little institutional change and 
                                 do not entail any unnecessary social welfare losses.
                             </Abstract>
-                            <br></br><a href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb_appendix.pdf" target="_blank" rel="noopener noreferrer">Online Appendix</a>
-                            <br></br><a href="https://fernandoduarte.github.io/src/files/indeterminacy_zlb.pdf" target="_blank" rel="noopener noreferrer">Paper and Online Appendix (with hyperlinks)</a>
-                            <br></br><a href="https://fernandoduarte.github.io/src/files/zlb_ode_interactive.zip" target="_blank" rel="noopener noreferrer">Interactive Mathematica notebook</a>
+                            <br></br><a href="../files/indeterminacy_zlb_appendix.pdf" download="ERP.xlsx">Online Appendix</a>
+                            <br></br><a href="../files/indeterminacy_zlb.pdf" download="ERP.xlsx">Paper and Online Appendix (with hyperlinks)</a>
+                            <br></br><a href="../files/zlb_ode_interactive.zip" download="ERP.xlsx">Interactive Mathematica notebook</a>
                         </li>                        
                         <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/short_horizon.pdf"
+                                href="../files/short_horizon.pdf"
                                 title="Institutional Investors' Intrinsic Trading Frequency and the Cross-Section of Stock Returns"
                                 citations="with Sahar Parsa, May 2013"></Paper>
                             <Abstract>
@@ -283,7 +280,7 @@ export default function Home() {
                     <ul>
                      <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/NRC_stock_bonds.pdf"
+                                href="../files/NRC_stock_bonds.pdf"
                                 title="Long-Run Consumption and Inflation Risks in Stock and Bond Returns"
                                 citations="with Leonardo Elias and Marta Szymanowska, November 2020"></Paper>
                             <Abstract>
@@ -300,7 +297,7 @@ export default function Home() {
                         </li>
                          <li>
                             <Paper
-                                href="https://fernandoduarte.github.io/src/files/ZLB_neural_nets.pdf"
+                                href="../files/ZLB_neural_nets.pdf"
                                 title="The Past is Present: Optimal Monetary Policy at the Effective Lower Bound"
                                 citations="with Benjamin Marrow, September 2020"></Paper>
                             <Abstract>
