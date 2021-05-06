@@ -6,7 +6,6 @@ import "../assets/bootstrap-4.3.1-dist/css/bootstrap.min.css";
 import layoutStyles from "./layout.module.css"
 import favicon from "../assets/favicon.ico"
 import portraitSidebar from "../assets/portrait-sidebar.jpg"
-import CV from "../files/duarte-cv.pdf"
 
 export default function Layout({children}) {
     return (
@@ -34,7 +33,7 @@ export default function Layout({children}) {
                                 <Nav.Link href="/about/">ABOUT</Nav.Link>
                                 <Nav.Link href="/">RESEARCH</Nav.Link>
                                 <Nav.Link href="/socialMedia/">SOCIAL MEDIA</Nav.Link>
-                                <Nav.Link href={CV} target="_blank" rel="noopener noreferrer">CV</Nav.Link>
+                                <Nav.Link href="https://fernandoduarte.github.io/src/files/duarte-cv.pdf" target="_blank" rel="noopener noreferrer">CV</Nav.Link>
                             </nav>
                         </Nav>
                     </Navbar.Collapse>
