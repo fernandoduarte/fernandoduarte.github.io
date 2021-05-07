@@ -16,7 +16,7 @@ export default function socialMedia() {
                             title="What’s Up with Stocks?"
                             citations="December 21, 2020"
                             publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
-							Coverage: &nbsp;
+							<b>Coverage</b>: &nbsp;
 							<a href="https://infodisplay.infodesk.com/item/46044cf7-08ce-4d61-8f7d-6e0a99fd5a4e.html?CU=frb5762&APP=6"
 								target="_blank"
                                 rel="noopener noreferrer">
@@ -63,7 +63,7 @@ export default function socialMedia() {
                             href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_paper.pdf"
                             title="How to Escape a Liquidity Trap with Interest Rate Rules"
                             citations="January 2019"></Paper>
-					Coverage:&nbsp;
+					<b>Coverage</b>:&nbsp;
 							<a href="http://www.wsj.com/articles/how-to-escape-a-liquidity-trap-with-interest-rate-rules-1462980399"
 								target="_blank"
                                 rel="noopener noreferrer">
@@ -76,7 +76,7 @@ export default function socialMedia() {
                             title="Quantifying Potential Spillovers from Runs on High-Yield Funds"
                             citations="with Nicola Cetorelli, Thomas Eisenbach, and Emily Eisner, February 19, 2016"
                             publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
-							Coverage:&nbsp;
+							<b>Coverage</b>:&nbsp;
 							<a href="http://www.nytimes.com/2016/02/20/business/dealbook/the-risk-of-a-panic-in-the-bond-mutual-fund-market.html"
 								target="_blank"
                                 rel="noopener noreferrer">
@@ -94,7 +94,7 @@ export default function socialMedia() {
                             title="Are Asset Managers Vulnerable to Fire Sales?"
                             citations="with Nicola Cetorelli and Thomas Eisenbach, February 18, 2016"
                             publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
-							Coverage: &nbsp;
+							<b>Coverage</b>: &nbsp;
 							<a href="https://www.ft.com/content/4ecc6b65-aa36-357a-bc44-47f26b88a1cb"
 								target="_blank"
                                 rel="noopener noreferrer">
@@ -138,7 +138,7 @@ export default function socialMedia() {
                             title="Are Stocks Cheap? A Review of the Evidence"
                             citations="with Carlo Rosa, May 08, 2013"
                             publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
-							Coverage:&nbsp;
+							<b>Coverage</b>:&nbsp;
 							<a href="http://www.economist.com/news/finance-and-economics/21578100-investors-think-equities-are-best-bet-times-expansive-monetary"
 								target="_blank"
                                 rel="noopener noreferrer">
