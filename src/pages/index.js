@@ -236,7 +236,7 @@ export default function Home() {
                         <li>
                             <Paper
                                 href="https://www.newyorkfed.org/medialibrary/media/research/economists/duarte/asset_pricing_with_menu_costs.pdf"
-                                title="Cross-sectional Inflation Risk in Menu Cost Models with Heterogeneous Firms"
+                                title="Cross-Sectional Inflation Risk in Menu Cost Models with Heterogeneous Firms"
                                 citations="with Jonas Mishara-Blomberger, December 2012"></Paper>
                             <Abstract>
                                 We show that firms in models with menu costs, when calibrated to have the
