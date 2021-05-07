@@ -41,15 +41,17 @@ export default function Home() {
                                 citations="with Martijn Boons, Frans de Roon, and Marta Szymanowska"
                                 publisher="Journal of Financial Economics, Volume 136, Issue 2, Pages 444-470, May 2020"></Paper>
                             <a
-                                href="../files/inflation_NRC_replication.zip"
-                                download="inflation_NRC_replication.zip">
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/inflation_NRC_replication.zip"
+                                target="_blank"
+                                rel="noopener noreferrer">
                                 Replication Code and Data
                             </a>
 							<br></br>
                            <a
-                                href="../files/inflation_NRC_onlineAppendix.pdf"
-                                download="inflation_NRC_onlineAppendix.pdf">
-                                Internet Apprendix
+						        href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/inflation_NRC_onlineAppendix.pdf"
+								target="_blank"
+                                rel="noopener noreferrer">
+                                Internet Appendix
                             </a>
                         </li>
                         <li>
@@ -73,7 +75,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="https://www.elibrary.imf.org/doc/IMF073/25076-EFMPEAEX/25076-EFMPEAEX/Other_formats/Source_PDF/25076-EFMOETEX.pdf?redirect=true"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/Financial Conditions Chapter 7"
                                 title="Monetary Policy and Financial Conditions: A Cross-Country Study"
                                 citations="with Tobias Adrian, Federico Grinberg and Tommaso Mancini-Griffoli"></Paper>
                             <i>Chapter 7,&nbsp;
@@ -84,39 +86,26 @@ export default function Home() {
                                     Advancing the Frontiers of Monetary Policy
                                 </a>
                                 , Tobias Adrian, Doug Laxton and Maurice Obstfeld, editors, International
-                                Monetary Fund, Washington DC, April 2018</i><br></br>
-                               <a
-                                    href="https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr890.pdf"
-                                    target="_blank"
-                                    rel="noopener noreferrer">
-                                    Working paper (ungated)
-                                </a>
+                                Monetary Fund, Washington DC, Pages 83-105, April 2018</i><br></br>
                         </li>
                         <li>
                             <Paper
                                 href="https://www.newyorkfed.org/medialibrary/media/research/epr/2015/2015_epr_equity-risk-premium.pdf?la=en"
                                 title="The Equity Risk Premium: A Review of Models"
-                                citations="with Carlo Rosa"></Paper>
-                            <i>
-                                Federal Reserve Bank of New York&nbsp;
-                                <a
-                                    href="https://www.newyorkfed.org/medialibrary/media/research/epr/2015/epr_2015_vol21no2.pdf?la=en"
-                                    target="_blank"
-                                    rel="noopener noreferrer">
-                                    Economic Policy Review, Volume 21, No. 2, Pages 39-57, December 2015
-                                </a>
-                            </i>
+                                citations="with Carlo Rosa"
+								publisher="Federal Reserve Bank of New York Economic Policy Review, Volume 21, No. 2, Pages 39-57, December 2015"></Paper>
                             <br></br>
                             <a 
-                               href="../files/ERP.xlsx" 
+                               href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/ERP.xlsx" 
                                target="_blank"
                                rel="noopener noreferrer">
                                    Latest ERP Estimates (February 2021)
                             </a>
                             <br></br>
                             <a
-                                href="../files/ERP_vintages.xlsx"
-                                download="ERP.xlsx">
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/ERP_vintages.xlsx"
+                                target="_blank"
+                                rel="noopener noreferrer">
                                     All Vintages
                             </a>
                             <br></br>
@@ -135,7 +124,7 @@ export default function Home() {
                     <ul>
                          <li>
                             <Paper
-                                href="../files/AdrianDuarte_NK_Vulnerabilities.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/AdrianDuarte_NK_Vulnerabilities.pdf"
                                 title="Financial Vulnerability and Monetary Policy"
                                 citations="with Tobias Adrian, November 2020"></Paper>
                             <Abstract>
@@ -159,7 +148,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="../files/Monetary and Macroprudential Policy with Endogenous Risk.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/Monetary and Macroprudential Policy with Endogenous Risk.pdf"
                                 title="Monetary and Macroprudential Policy with Endogenous Risk"
                                 citations="with Tobias Adrian, Nellie Liang, and Pawel Zabczyk, November 2020"></Paper>
                             <Abstract>
@@ -177,7 +166,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="../files/NetworkContagion_DuarteJones.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/NetworkContagion_DuarteJones.pdf"
                                 title="Empirical Network Contagion for U.S. Financial Insitutions"
                                 citations="with Collin Jones, October 2019"></Paper>
                             <Abstract>
@@ -196,7 +185,7 @@ export default function Home() {
                         </li>
                         <li>
                             <Paper
-                                href="../files/indeterminacy_zlb_paper.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_paper.pdf"
                                 title="How to Escape a Liquidity Trap with Interest Rate Rules"
                                 citations="January 2019"></Paper>
                             <Abstract>
@@ -209,13 +198,28 @@ export default function Home() {
                                 Fiscal policy is passive, so it plays no role for determinacy. The interest rate rules I consider are easy to communicate, require little institutional change and 
                                 do not entail any unnecessary social welfare losses.
                             </Abstract>
-                            <br></br><a href="../files/indeterminacy_zlb_appendix.pdf" download="ERP.xlsx">Online Appendix</a>
-                            <br></br><a href="../files/indeterminacy_zlb.pdf" download="ERP.xlsx">Paper and Online Appendix (with hyperlinks)</a>
-                            <br></br><a href="../files/zlb_ode_interactive.zip" download="ERP.xlsx">Interactive Mathematica notebook</a>
+                            <br></br>
+							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_appendix.pdf"
+								target="_blank"
+                                rel="noopener noreferrer">
+								Online Appendix
+							</a>
+                            <br></br>
+							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb.pdf"
+								target="_blank"
+                                rel="noopener noreferrer">
+								Paper and Online Appendix (with hyperlinks)
+							</a>
+                            <br></br>
+							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/zlb_ode_interactive.zip"
+								target="_blank"
+                                rel="noopener noreferrer">
+								Interactive Mathematica notebook
+							</a>
                         </li>                        
                         <li>
                             <Paper
-                                href="../files/short_horizon.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/short_horizon.pdf"
                                 title="Institutional Investors' Intrinsic Trading Frequency and the Cross-Section of Stock Returns"
                                 citations="with Sahar Parsa, May 2013"></Paper>
                             <Abstract>
@@ -257,18 +261,18 @@ export default function Home() {
                                 title="Aggregate Investment and Stock Returns"
                                 citations="with Leonid Kogan and Dmitry Livdan, April 2012"></Paper>
                             <Abstract>
-                                In this paper we study the relation between returns on the aggregate stock
+                                We study the relation between returns on the aggregate stock
                                 market and aggregate real investment. While it is well known that the aggregate
                                 investment rate is negatively correlated with subsequent excess stock market
-                                returns, we find that it is positively correlated with future stock market
+                                returns, we find that it is also positively correlated with future stock market
                                 volatility. Thus, conditionally on past
                                 aggregate investment, the mean-variance tradeoff in aggregate stock returns is negative.
                                 We interpret these patterns within a general equilibrium production economy. In our
                                 model, investment is determined endogenously in response to two types of shocks:
                                 shocks to productivity and preference shocks affecting discount rates. Preference shocks
-                                affect expected stock returns, aggregate investment rate, and stock return volatility in
-                                equilibrium, helping model reproduce the empirical relations between these variables.
-                                Thus, our results emphasize that the time-varying price of aggregate risk plays and
+                                affect expected stock returns, the aggregate investment rate, and stock return volatility in
+                                equilibrium, helping the model reproduce the empirical relations between these variables.
+                                Thus, our results emphasize that the time-varying price of aggregate risk plays an
                                 important role in shaping the aggregate investment dynamics.
                             </Abstract>
                         </li>
@@ -280,7 +284,7 @@ export default function Home() {
                     <ul>
                      <li>
                             <Paper
-                                href="../files/NRC_stock_bonds.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/NRC_stock_bonds.pdf"
                                 title="Long-Run Consumption and Inflation Risks in Stock and Bond Returns"
                                 citations="with Leonardo Elias and Marta Szymanowska, November 2020"></Paper>
                             <Abstract>
@@ -297,7 +301,7 @@ export default function Home() {
                         </li>
                          <li>
                             <Paper
-                                href="../files/ZLB_neural_nets.pdf"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/ZLB_neural_nets.pdf"
                                 title="The Past is Present: Optimal Monetary Policy at the Effective Lower Bound"
                                 citations="with Benjamin Marrow, September 2020"></Paper>
                             <Abstract>
@@ -313,7 +317,22 @@ export default function Home() {
                              (iv) behaves very differently from the Taylor rule. We illustrate these insights by 
                              solving for key variables in the New Keynesian model using a neural network.
                             </Abstract>
-                        </li>                       
+                        </li>      
+						<li>
+                            <Paper
+                                title="Investing in Capacity: Long-run Effects of Rational Inattention"
+                                citations="with Nina Boyarchenko, December 2011"></Paper>
+                            <Abstract>
+                               Many models posit that agents have a limited capacity to process information. The standard specification assumes that information processing capacity is constant, precluding agents from investing in capacity to relax their informational constraints. We compare the long-run behavior of three different specifications of learning processes –that of a Bayesian agent, an agent with fixed capacity to process information and an agent with a fixed cost of observing additional information– and find that the steady-states for the economy-wide levels of uncertainty, signal precision and information transmission rate are different across specifications. Further, the agents with an endogenously chosen capacity to process information learn “less” in the long-run, so that the distance between the modes of the posterior and prior distributions is smaller.
+                            </Abstract>
+							<br></br>
+							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/RIslides.pdf"
+								target="_blank"
+                                rel="noopener noreferrer">
+								Slides
+							</a>
+                        </li>              
+						
                     </ul>
                 </section>
             </div>

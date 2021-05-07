@@ -23,8 +23,7 @@ export default function About() {
                         alt="Portrait of Fernando Duarte"/> {/* Bio text */}
                     <div id={aboutStyles.bio}>
                         <span>
-                            <h3>Fernando Duarte</h3>
-                            &nbsp;is a Senior Economist in the Capital Markets Function at the Federal
+                            Fernando Duarte is a Senior Economist in the Capital Markets Function at the Federal
                             Reserve Bank of New York. His main research interests are in monetary economics, inflation, asset
                             pricing, financial frictions, macroprudential policies and, more generally, the connections between macroeconomics and finance. 
                             Fernando has published some of his research in top finance journals, including the Journal of Finance. He

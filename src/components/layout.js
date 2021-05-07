@@ -33,7 +33,7 @@ export default function Layout({children}) {
                                 <Nav.Link href="/about/">ABOUT</Nav.Link>
                                 <Nav.Link href="/">RESEARCH</Nav.Link>
                                 <Nav.Link href="/socialMedia/">SOCIAL MEDIA</Nav.Link>
-                                <Nav.Link href="https://fernandoduarte.github.io/src/files/duarte-cv.pdf" target="_blank" rel="noopener noreferrer">CV</Nav.Link>
+                                <Nav.Link href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/duarte-cv.pdf" target="_blank" rel="noopener noreferrer">CV</Nav.Link>
                             </nav>
                         </Nav>
                     </Navbar.Collapse>
