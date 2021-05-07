@@ -19,39 +19,39 @@ export default function Home() {
                                 href="https://onlinelibrary.wiley.com/doi/10.1111/jofi.13010"
                                 title="Fire-Sale Spillovers and Systemic Risk"
                                 citations="with Thomas Eisenbach"
-                                publisher="The Journal of Finance, 76: 1251-1294, February 2021"></Paper>
+                                publisher="The Journal of Finance, Volume 76, Issue 3, Pages 1251-1294, June 2021"></Paper>
                             <a
                                 href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13010&file=jofi13010-sup-0001-ReplicationCode.zip"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                Replication Code
+                                Replication code
                             </a>
 							<br></br>
                             <a
                                 href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13010&file=jofi13010-sup-0001-InternetAppendix.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                Internet Appendix
+                                Internet appendix
                             </a>
                         </li>
                         <li>
                             <Paper
                                 href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X19302429"
-                                title="Time-varying Inflation Risk and Stock Returns"
+                                title="Time-Varying Inflation Risk and Stock Returns"
                                 citations="with Martijn Boons, Frans de Roon, and Marta Szymanowska"
                                 publisher="Journal of Financial Economics, Volume 136, Issue 2, Pages 444-470, May 2020"></Paper>
                             <a
                                 href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/inflation_NRC_replication.zip"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                Replication Code and Data
+                                Replication code and data
                             </a>
 							<br></br>
                            <a
 						        href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/inflation_NRC_onlineAppendix.pdf"
 								target="_blank"
                                 rel="noopener noreferrer">
-                                Internet Appendix
+                                Internet appendix
                             </a>
                         </li>
                         <li>
@@ -59,12 +59,12 @@ export default function Home() {
                                 href="https://www.aeaweb.org/articles?id=10.1257/pandp.20201023"
                                 title="NKV: A New Keynesian Model with Vulnerability"
                                 citations="with Tobias Adrian, Nellie Liang and Pawel Zabczyk, May 2020"
-                                publisher="AEA Papers and Proceedings, vol. 110, May 2020 (pp. 470-76)"></Paper>
+                                publisher="AEA Papers and Proceedings, Volume 110, Pages 470-76, May 2020"></Paper>
                             <a
                                 href="https://www.openicpsr.org/openicpsr/project/117546/version/V1/view"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                Replication Code and Data
+                                Replication code and data
                             </a>
                         </li>                        
                         <li>
@@ -98,21 +98,21 @@ export default function Home() {
                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/ERP.xlsx" 
                                target="_blank"
                                rel="noopener noreferrer">
-                                   Latest ERP Estimates (February 2021)
+                                   Latest ERP estimates (February 2021)
                             </a>
                             <br></br>
                             <a
                                 href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/ERP_vintages.xlsx"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                    All Vintages
+                                    All vintages
                             </a>
                             <br></br>
                             <a
                                 href="https://github.com/fernando-duarte/ERP"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                    Code and Data
+                                    Code and data
                             </a>
                         </li>
                     </ul>
@@ -135,14 +135,14 @@ export default function Home() {
                                 during times of easy financial conditions, growth tends to be high, and risk
                                 tends to be low. Monetary policy affects output directly via the IS curve,
                                 and indirectly via the pricing of risk that relates to the tightness of the
-                                value at risk constraint. The optimal monetary policy rule always depends on
+                                value at risk constraints. The optimal monetary policy rule always depends on
                                 financial vulnerabilities in addition to the output gap, inflation, and the
                                 natural rate. We show that a classic Taylor rule exacerbates deviations of
                                 the output gap from its target value of zero relative to an optimal interest
                                 rate rule that includes vulnerability. Simulations show that optimal policy
                                 significantly increases welfare relative to a classic Taylor rule. The model 
                                 provides a microfoundation for optimal monetary policy frameworks that 
-                                include financial stability. 
+                                take into account financial stability. 
                             </Abstract>
                         </li>
                         <li>
@@ -152,7 +152,7 @@ export default function Home() {
                                 citations="with Tobias Adrian, Nellie Liang, and Pawel Zabczyk, November 2020"></Paper>
                             <Abstract>
                                We extend the New Keynesian (NK) model to include endogenous risk, microfounded using
-                                diagnostic expectations and intermediation frictions captured by a Value-at-Risk constraint.
+                                diagnostic expectations and intermediation frictions captured by a value-at-risk constraint.
                                 Lower interest rates not only shift consumption intertemporally but also conditional
                                  output risk via their impact on risk-taking, giving rise to a vulnerability channel 
                                  of monetary policy. The model fits the conditional output gap distribution and can 
@@ -200,13 +200,13 @@ export default function Home() {
 							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_appendix.pdf"
 								target="_blank"
                                 rel="noopener noreferrer">
-								Online Appendix
+								Online appendix
 							</a>
                             <br></br>
 							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb.pdf"
 								target="_blank"
                                 rel="noopener noreferrer">
-								Paper and Online Appendix (with hyperlinks)
+								Paper and online appendix hyperlinked
 							</a>
                             <br></br>
 							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/zlb_ode_interactive.zip"
@@ -318,7 +318,8 @@ export default function Home() {
                         </li>      
 						<li>
                             <Paper
-                                title="Investing in Capacity: Long-run Effects of Rational Inattention"
+								href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/RIslides.pdf"
+                                title="Investing in Capacity: Long-Run Effects of Rational Inattention (slides)"
                                 citations="with Nina Boyarchenko, December 2011"></Paper>
                             <Abstract>
                                Many models posit that agents have a limited capacity to process information. The standard specification assumes 
@@ -328,14 +329,10 @@ export default function Home() {
 								a fixed cost of observing additional information — and find that the steady-states for the economy-wide 
 								levels of uncertainty, signal precision and information transmission rate are different across specifications.
 								Further, the agents with an endogenously chosen capacity to process information learn “less” in the long-run, 
-								so that the distance between the modes of the posterior and prior distributions is smaller.
-                            </Abstract>
-							<br></br>
-							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/RIslides.pdf"
-								target="_blank"
-                                rel="noopener noreferrer">
-								Slides
-							</a>
+								so that the distance between the modes of the posterior and prior distributions is smaller than for the other two specifications.
+								We conclude that endogenous investment in information processing capacity can 
+								lead to more rational inattention than when information processing capacity is fixed.
+                            </Abstract>							
                         </li>              
 						
                     </ul>
