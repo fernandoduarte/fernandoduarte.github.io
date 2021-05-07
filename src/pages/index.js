@@ -71,16 +71,16 @@ export default function Home() {
                             <Paper
                                 href="https://www.sciencedirect.com/science/article/abs/pii/S0304393219301679?via%3Dihub"
                                 title="Comment on “Forward Guidance: Communication, Commitment, or Both?” by Marco Bassetto"
-                                publisher="Journal of Monetary Economics, Volume 108, Pages 87-92, December 2019"></Paper>
+                                citations=<i>Journal of Monetary Economics, Volume 108, Pages 87-92, December 2019</i>></Paper>
                         </li>
                         <li>
                             <Paper
-                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/Financial Conditions Chapter 7"
+                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/FinancialConditionsChapter7.pdf"
                                 title="Monetary Policy and Financial Conditions: A Cross-Country Study"
                                 citations="with Tobias Adrian, Federico Grinberg and Tommaso Mancini-Griffoli"></Paper>
                             <i>Chapter 7,&nbsp;
                                 <a
-                                    href="https://bookstore.imf.org/books/title/advancing-the-frontiers-of-monetary-policy"
+                                    href="https://bookstore.imf.org/books/advancing-the-frontiers-of-monetary-policy"
                                     target="_blank"
                                     rel="noopener noreferrer">
                                     Advancing the Frontiers of Monetary Policy
@@ -94,7 +94,6 @@ export default function Home() {
                                 title="The Equity Risk Premium: A Review of Models"
                                 citations="with Carlo Rosa"
 								publisher="Federal Reserve Bank of New York Economic Policy Review, Volume 21, No. 2, Pages 39-57, December 2015"></Paper>
-                            <br></br>
                             <a 
                                href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/ERP.xlsx" 
                                target="_blank"
@@ -198,7 +197,6 @@ export default function Home() {
                                 Fiscal policy is passive, so it plays no role for determinacy. The interest rate rules I consider are easy to communicate, require little institutional change and 
                                 do not entail any unnecessary social welfare losses.
                             </Abstract>
-                            <br></br>
 							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_appendix.pdf"
 								target="_blank"
                                 rel="noopener noreferrer">
@@ -238,7 +236,7 @@ export default function Home() {
                         <li>
                             <Paper
                                 href="https://www.newyorkfed.org/medialibrary/media/research/economists/duarte/asset_pricing_with_menu_costs.pdf"
-                                title="Cross-sectional inflation risk in menu cost models with heterogeneous firms"
+                                title="Cross-sectional Inflation Risk in Menu Cost Models with Heterogeneous Firms"
                                 citations="with Jonas Mishara-Blomberger, December 2012"></Paper>
                             <Abstract>
                                 We show that firms in models with menu costs, when calibrated to have the
@@ -292,8 +290,8 @@ export default function Home() {
                                moments than has been previously possible, while simultaneously keeping risk aversion and the elasticity 
                                of intertemporal substitution low. The moments we match capture the joint dynamics of stock returns,
                                bond returns, bond yields, and macroeconomic fundamentals. We also match moments that have remained 
-                               elusive in the literature ---including those from predictability regressions of stock returns, consumption, 
-                               and dividends on the price-dividend ratio--- as well as some that have been only matched piecemeal by a 
+                               elusive in the literature — including those from predictability regressions of stock returns, consumption, 
+                               and dividends on the price-dividend ratio — as well as some that have been only matched piecemeal by a 
                                collection of different versions of the long-run risk model. The key element that we introduce in the 
                                model is that inflation non-neutralities are time-varying in a manner consistent with the data, with inflationary shocks predicting higher 
                                or lower real consumption growth depending on the current state of the economy.
@@ -312,7 +310,7 @@ export default function Home() {
                              closed-form solution for the optimal interest rate: it is the maximum of zero and a 
                              weighted average of all past realizations of the output gap. This implies that the
                              optimal interest rate (i) takes a simple form, (ii) is path dependent at all times,
-                             (iii) should be pre-emptively lowered when close to the ELB --or kept at zero if at the ELB--
+                             (iii) should be pre-emptively lowered when close to the ELB — or kept at zero if at the ELB — 
                              if and only if the weighted average of past output gaps is negative, and
                              (iv) behaves very differently from the Taylor rule. We illustrate these insights by 
                              solving for key variables in the New Keynesian model using a neural network.
@@ -323,7 +321,14 @@ export default function Home() {
                                 title="Investing in Capacity: Long-run Effects of Rational Inattention"
                                 citations="with Nina Boyarchenko, December 2011"></Paper>
                             <Abstract>
-                               Many models posit that agents have a limited capacity to process information. The standard specification assumes that information processing capacity is constant, precluding agents from investing in capacity to relax their informational constraints. We compare the long-run behavior of three different specifications of learning processes –that of a Bayesian agent, an agent with fixed capacity to process information and an agent with a fixed cost of observing additional information– and find that the steady-states for the economy-wide levels of uncertainty, signal precision and information transmission rate are different across specifications. Further, the agents with an endogenously chosen capacity to process information learn “less” in the long-run, so that the distance between the modes of the posterior and prior distributions is smaller.
+                               Many models posit that agents have a limited capacity to process information. The standard specification assumes 
+							   that information processing capacity is constant, precluding agents from investing in capacity to relax their
+							   informational constraints. We compare the long-run behavior of three different specifications of learning processes 
+							    — that of a Bayesian agent, an agent with fixed capacity to process information and an agent with 
+								a fixed cost of observing additional information — and find that the steady-states for the economy-wide 
+								levels of uncertainty, signal precision and information transmission rate are different across specifications.
+								Further, the agents with an endogenously chosen capacity to process information learn “less” in the long-run, 
+								so that the distance between the modes of the posterior and prior distributions is smaller.
                             </Abstract>
 							<br></br>
 							<a href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/RIslides.pdf"
