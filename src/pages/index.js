@@ -87,6 +87,12 @@ export default function Home() {
                                 </a>
                                 , Tobias Adrian, Doug Laxton and Maurice Obstfeld, editors, International
                                 Monetary Fund, Washington DC, Pages 83-105, April 2018</i><br></br>
+								<a 
+								   href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/Monetary Policy and Financial Conditions.pdf" 
+								   target="_blank"
+								   rel="noopener noreferrer">
+								   Working paper version
+                            </a>
                         </li>
                         <li>
                             <Paper
