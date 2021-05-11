@@ -51,13 +51,6 @@ export default function socialMedia() {
                             citations="with Collin Jones and Francisco Ruela, June 24, 2019"
                             publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
                     </li>
-                    <li>
-                        <Paper
-                            href="https://libertystreeteconomics.newyorkfed.org/2018/11/ten-years-after-the-crisis-is-the-banking-system-safer.html"
-                            title="Ten Years after the Crisis, Is the Banking System Safer?"
-                            citations="with Dong Beom Choi, Thomas Eisenbach, and James Vickery, November 14, 2018"
-                            publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
-                    </li>
 					<li>
                        <Paper
                             href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_paper.pdf"
@@ -69,7 +62,14 @@ export default function socialMedia() {
                                 rel="noopener noreferrer">
 								Wall St. Journal
 							</a>
-					</li>							
+					</li>
+                    <li>
+                        <Paper
+                            href="https://libertystreeteconomics.newyorkfed.org/2018/11/ten-years-after-the-crisis-is-the-banking-system-safer.html"
+                            title="Ten Years after the Crisis, Is the Banking System Safer?"
+                            citations="with Dong Beom Choi, Thomas Eisenbach, and James Vickery, November 14, 2018"
+                            publisher="Federal Reserve Bank of New York Liberty Street Economics"></Paper>
+                    </li>							
                     <li>
                         <Paper
                             href="http://libertystreeteconomics.newyorkfed.org/2016/02/quantifying-potential-spillovers-from-runs-on-high-yield-funds.html"
