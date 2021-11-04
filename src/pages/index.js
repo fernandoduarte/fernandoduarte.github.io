@@ -158,7 +158,7 @@ export default function Home() {
                                 citations="with Tobias Adrian, Nellie Liang, and Pawel Zabczyk, November 2020"></Paper>
                             <Abstract>
                                We extend the New Keynesian (NK) model to include endogenous risk, microfounded using
-                                diagnostic expectations and intermediation frictions captured by a value-at-risk constraint.
+                                either diagnostic expectations or intermediation frictions captured by a value-at-risk constraint.
                                 Lower interest rates not only shift consumption intertemporally but also conditional
                                  output risk via their impact on risk-taking, giving rise to a vulnerability channel 
                                  of monetary policy. The model fits the conditional output gap distribution and can 
