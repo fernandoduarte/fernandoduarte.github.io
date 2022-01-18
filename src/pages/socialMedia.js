@@ -56,7 +56,7 @@ export default function socialMedia() {
                             href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_paper.pdf"
                             title="How to Escape a Liquidity Trap with Interest Rate Rules"
                             citations="January 2019"></Paper>
-					<b>Coverage</b>:&nbsp;
+                            <b>Coverage</b>:&nbsp;
 							<a href="http://www.wsj.com/articles/how-to-escape-a-liquidity-trap-with-interest-rate-rules-1462980399"
 								target="_blank"
                                 rel="noopener noreferrer">
