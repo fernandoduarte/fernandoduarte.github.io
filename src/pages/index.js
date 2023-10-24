@@ -192,7 +192,7 @@ export default function Home() {
                             <Paper
                                 href="https://github.com/fernandoduarte/fernandoduarte.github.io/raw/source/src/files/indeterminacy_zlb_paper.pdf"
                                 title="How to Escape a Liquidity Trap with Interest Rate Rules"
-                                citations="January 2019"></Paper>
+                                citations="October 2023"></Paper>
                             <Abstract>
                                 I study how central banks should communicate monetary policy in liquidity trap scenarios in which the zero lower bound on nominal interest rates is binding.
                                 Using a standard New Keynesian model, I argue that the key to preventing self-fulfilling deflationary spirals and anchoring expectations is to promise to keep 
